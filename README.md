@@ -45,6 +45,5 @@ Give a start 😄:star:
 "Suggestions and project improvement ideas are welcomed!"
 Thanks a lot,
 
-
-                                                                                                                     Project Leader
-                                                                                                                Edde Vinith Kumar Reddy
+Project Leader
+Edde Vinith Kumar Reddy
