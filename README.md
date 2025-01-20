@@ -46,5 +46,5 @@ Give a start 😄:star:
 Thanks a lot,
 
 
-                                                                                                                            Project Leader
-                                                                                                                        Edde Vinith Kumar Reddy
+                                                                                                                     Project Leader
+                                                                                                                Edde Vinith Kumar Reddy
